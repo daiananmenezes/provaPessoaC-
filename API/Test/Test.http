@@ -1,0 +1,16 @@
+### Cadastrar 
+POST https://localhost:5001/api/pessoa/create
+Content-Type: application/json
+
+{
+    "Nome" : "Daiana",
+    "Idade" : 16,
+    "Altura" : 1.60,
+    "Cpf" : "112.890.269.09",
+    "Email" : "daianamenezes222@gmail.com"
+
+
+}
+
+### Listar
+GET https://localhost:5001/api/pessoa/list
