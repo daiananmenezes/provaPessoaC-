@@ -740,11 +740,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\daian\\OneDrive\\Documentos\\Faculdade\\4 semestre\\Aula C#\\provaPessoaC-\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\daian\\OneDrive\\Documentos\\Faculdade\\4 semestre\\Aula C#\\provac#\\provaPessoaC-\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\daian\\OneDrive\\Documentos\\Faculdade\\4 semestre\\Aula C#\\provaPessoaC-\\API\\API.csproj",
+      "projectPath": "C:\\Users\\daian\\OneDrive\\Documentos\\Faculdade\\4 semestre\\Aula C#\\provac#\\provaPessoaC-\\API\\API.csproj",
       "packagesPath": "C:\\Users\\daian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\daian\\OneDrive\\Documentos\\Faculdade\\4 semestre\\Aula C#\\provaPessoaC-\\API\\obj\\",
+      "outputPath": "C:\\Users\\daian\\OneDrive\\Documentos\\Faculdade\\4 semestre\\Aula C#\\provac#\\provaPessoaC-\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\daian\\AppData\\Roaming\\NuGet\\NuGet.Config"
